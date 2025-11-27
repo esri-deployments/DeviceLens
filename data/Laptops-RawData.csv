@@ -1,0 +1,29 @@
+Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion,Multi-Core,Single-Core,Monster,Junkshop,Classroom,Category
+Dell Pro 18 Plus MB18251,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 5000 BWELL,128GB,1TB,17.46 min,1758 pts,117 pts,3950.6,2181.07,1967.9,Demo
+Dell Pro 18 Plus MB18250,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 5000 BWELL,96GB,1TB,16.53 min,1719 pts,117 pts,3489.68,1872.98,1766.67,Demo
+Dell Pro 18 Plus MB18250,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 3000 BWELL,32GB,1TB,17 min,1786 pts,111 pts,2514.03,1428.03,1357.45,Demo
+Dell Precision 7780,2023,Intel i9-13950HX,2.6GHz,Windows 11,NVIDIA RTX 3500 Ada,32GB,1TB,16.91 min,960 pts,101 pts,No Data,No Data,No Data,Demo
+Dell Precision 7750,2020,Intel i7-10750H,2.6GHz,Windows 11,NVIDIA Quadro RTX 4000,32GB,1TB,18.81 min,416 pts,70 pts,50.63,35.84,22.9,Demo
+Dell Pro Max 16 Plus U7,2025,Intel Ultra 7 265HX,2.6GHz,Windows 11,NVIDIA RTX Pro 2000 BWELL,32GB,1TB,17.58 min,1491 pts,115 pts,1584.82,1015.17,909.63,Dev
+Dell Pro Max 16 Plus U5,2025,Intel Ultra 5 245HX,3.58GHz,Windows 11,NVIDIA RTX Pro 1000 BWELL,32GB,1TB,16.18 min,1156 pts,112 pts,1306.57,890.75,776.89,Dev
+Dell Pro Max 16 Plus MC16250,2025,Intel Ultra 7 265H,2.2GHz,Windows 11,NVIDIA RTX Pro 2000 BWELL,32GB,1TB,17 min,895 pts,119 pts,1462.2,927.8,812.85,Dev
+Dell Precision 7680,2023,Intel i7-13850HX,2.6GHz,Windows 11,NVIDIA RTX 2000 Ada,32GB,1TB,16.52 min,1041 pts,107 pts,121.92,87.87,60.69,Dev
+Del Precision 7670,2022,Intel i9-12950HX,2.5GHz,Windows 11,NVIDIA RTX A1000,32GB,1TB,16.8 min,948 pts,104 pts,No Data,No Data,No Data,Dev
+HP Zbook G9 16in,2022,Intel i7-12800H,2.5GHz,Windows 11,NVIDIA RTX A2000 8GB,64GB,1TB,16.68 min,761 pts,93 pts,85.65,60.07,40.14,Dev
+Dell Pro Max Premium,2025,Intel Ultra 7 265H,2.2GHz,Windows 11,NVIDIA RTX Pro 2000 BWELL,32GB,1TB,30.68 min,965 pts,116 pts,1290.37,807.8,695.02,Travel Dev
+Dell Precision 5690,2024,Intel Ultra 7 165H,2.6GHz,Windows 11,NVIDIA RTX 2000 Ada,32GB,1TB,16.97 min,553 pts,89 pts,No Data,No Data,No Data,Travel Dev
+Dell Precision 5550,2020,Intel i7-10750H,2.6GHz,Windows 11,NVIDIA T1200 Laptop GPU,32GB,1TB,19.77 min,335 pts,63 pts,38.36,21.13,17.38,Travel Dev
+Dell Precision 5540,2019,Intel i7-9850H,2.6GHz,Windows 11,NVIDIA Quadro T1000,32GB,1TB,25.01 min,296 pts,63 pts,41.52,28.61,16.49,Travel Dev
+HP Power G11,2024,Intel Ultra 9 185H,3.08GHz,Windows 11,NVIDIA RTX 3000 Ada,64GB,1TB,16.89 min,890 pts,85 pts,1241.74,695.04,671.13,Travel Dev
+HP Zbook G8,2021,Intel i7-11800H,2.4GHz,Windows 11,NVIDIA RTX 2000 Ada,32GB,1TB,19.11 min,319 pts,No Data,No Data,No Data,No Data,Travel Dev
+Dell Pro 14 Plus U7,2025,Intel Ultra 7 268V,3.31GHz,Windows 11,Intel ARC 140V,32GB,1TB,36.57 min,484 pts,114 pts,293.24,155.46,133.61,Business
+Dell Pro 14 Plus U5,2025,Intel Ultra 5 238V,3.11GHz,Windows 11,Intel ARC 130V,32GB,1TB,36.84 min,461 pts,106 pts,276.43,143.77,138.87,Business
+Dell Pro 14 Plus AMD,2025,AMD Ryzen AI 5 Pro,2.0GHz,Windows 11,AMD Radeon 840M,16GB,1TB,22.45 min,357 pts,93 pts,53.94,35.9,26.74,Business
+Dell Latitude 7450,2024,Intel Ultra 7 155U,1.7GHz,Windows 11,Intel Graphics,16GB,1TB,20.78 min,No Data,No Data,54.96,35.75,25.77,Business
+HP Zbook Firefly 14in,2024,AMD Ryzen 7 Pro 8840HS,3.0GHz,Windows 11,AMD Radeon 780M,32GB,1TB,20.73 min,No Data,No Data,45.59,30.07,22.92,Business
+HP Zbook G1a 96GB,2025,AMD Ryzen AI Max+ Pro 395,3.0GHz,Windows 11,AMD Radeon 8060s 96GB,32GB,1TB,22.04 min,329 pts,21 pts,129.58,97.12,65.82,Business
+HP Zbook G1a 64GB,2025,AMD Ryzen AI Max+ Pro 395,3.0GHz,Windows 11,AMD Radeon 8060s 64GB,64GB,1TB,25.18 min,1440 pts,102 pts,168.8,124.02,88.94,Business
+HP Zbook G1a 32GB,2025,AMD Ryzen AI Max+ Pro 395,3.0GHz,Windows 11,AMD Radeon 8060s 32GB,96GB,1TB,27.14 min,1384 pts,102 pts,169.14,124.34,87.96,Business
+Dell Latitude 7350 U7,2024,Intel Ultra 7 164U,1.1GHz,Windows 11,Intel Graphics,16GB,512GB,22.05 min,No Data,No Data,44.89,23.38,16.59,Tablet
+Dell Latitude 7350 U5,2024,Intel Ultra 5 134U,1.1GHz,Windows 11,Intel Graphics,16GB,512GB,25.03 min,No Data,No Data,41.3,20.14,14.62,Tablet
+Dell Latitude 7320,2021,Intel i7-1180G7,2.2GHz,Windows 11,Intel Iris Xe Graphics,16GB,512GB,75.95 min,No Data,No Data,No Data,No Data,No Data,Tablet

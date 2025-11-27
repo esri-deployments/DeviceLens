@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Datavzrd</title>
+</head>
+<body>
+<script src="./static/bundle.js"></script>
+<script type="text/javascript">
+    const urlParams = new URLSearchParams(window.location.search);
+    const viewParam = urlParams.get('view');
+    const version = '2.61.10';
+    const name = 'Device Lens';
+    const views = {"desktops":"Desktop machines benchmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n","laptops":"Laptop machines bechmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n"};
+    const table = "laptops";
+    let redirectUrl = viewParam ? `${viewParam}/index_1.html` : `${table}/index_1.html`;
+    urlParams.delete('view');
+    const remainingParams = urlParams.toString();
+    if (remainingParams) redirectUrl += `?${remainingParams}`;
+    if (table || viewParam) {
+        window.location.href = redirectUrl;
+    } else {
+        datavzrd.landing_page();
+    }
+</script>
+</body>
+</html>

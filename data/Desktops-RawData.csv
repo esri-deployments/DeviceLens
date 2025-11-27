@@ -1,0 +1,13 @@
+Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion,GPU Scores,Multi-Core,Single-Core,Monster,Junkshop,Classroom,Category
+HP Z2 Tower Workstation Desktop,2022,Intel i9-14900K,3.20GHz,Windows 11,NVIDIA GeForce RTX 4080 Super,64GB,3TB,14.86 min,26026 pts,1654 pts,111 pts,208.44,134.74,90.37,Tower
+HP Z2 G1i Tower Workstation Desktop,2025,Intel Ultra 9 285K,3.70GHz,Windows 11,NVIDIA RTX 4000 Ada,64GB,1TB,15.47 min,15396 pts,2181 pts,131 pts,2170.43,1072.83,1152.75,Tower
+Dell Precision 7875 Tower,2023,AMD Ryzen TR Pro 795WX,4.20GHz,Windows 11,NVIDIA RTX 4500 Ada 24GB,64GB,4TB,16.06 min,19145 pts,2495 pts,102 pts,2851.49,1402.05,1458.9,Tower
+Dell Pro Max Tower T2,2025,Intel Ultra 7 265K,3.90GHz,Windows 11,NVIDIA RTX 4000 Ada,64GB,1TB,16.67 min,15816 pts,1873 pts,118 pts,2243.77,1128.63,1178.89,Tower
+Dell Precision 5860 Tower,2023,Intel Xeon W3-2435,3.10GHz,Windows 11,NVIDIA RTX A1000,64GB,1TB,No Data,4329 pts,825 pts,62 pts,573.14,365.11,326.2,Tower
+Dell Precision 5820 Tower,2017,Intel Xeon W-2133,3.60GHz,Windows 11,NVIDIA Quadro P400,32GB,1TB,25.11 min,No Data, 396 pts,54 pts,40.78,31.09,20.75,Tower
+Dell Precision 5810 Tower,2013,Intel Xeon E5-1620 v4,3.50GHz,Windows 10,NVIDIA Quadro K620,16GB,1TB,34.25 min,No Data,252 pts,49 pts,No Data,No Data,No Data,Tower
+HP Mini Z2 G9 Workstation,2024,Intel i7-14700,2.12GHz,Windows 11,NVIDIA T1000 8GB,32GB,1TB,16.64 min,1843 pts,1239 pts,113 pts,162.63,91.44,60.98,SFF
+HP Mini Z2 G1i Workstation,2025,Intel Ultra 7 265K,3.88GHz,Windows 11,NVIDIA RTX 4000 SFF Ada,64GB,1TB,16.45 min,12562 pts,1662 pts,128 pts,197.12,126.75,91.01,SFF
+Dell Pro Max Micro,2025,Intel Ultra 7 265,2.40 GHz,Windows 11,NVIDIA RTX A1000 CUDA,32GB,1TB,No Data,4469 pts,1402 pts,116 pts,170.13,108.92,77.29,SFF
+Dell Precision 3450,2024,Intel i7-11700,2.50GHz,Windows 11,NVIDIA T600,16GB,512GB,19.63 min,No Data,537 pts,86 pts,67.53,44.41,25.48,SFF
+Dell Precision 3430,2018,Intel Xeon E-2147G,3.80GHz,Windows 11,NVIDIA P400,32GB,512GB,25.41 min,No Data,293 pts,66 pts,34.54,23.52,17.3,SFF

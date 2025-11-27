@@ -1,0 +1,35 @@
+name: Device Lens
+
+default-view: laptops
+
+datasets:
+  laptops:
+    path: data/Laptops-RawData.csv
+  
+  desktops:
+    path: data/Desktops-RawData.csv
+
+views:
+  laptops:
+    dataset: laptops
+    desc: |
+      Laptop machines bechmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi/Single-Core 3D Image Generation, and **Blender** for Sampling Rates.
+    render-table:
+      columns:
+        Model:
+          plot:
+            heatmap:
+              scale: ordinal
+              color-scheme: category20b
+  
+  desktops:
+    dataset: desktops
+    desc: |
+     Desktop machines benchmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi/Single-Core 3D Image Generation, and **Blender** for Sampling Rates.
+    render-table:
+      columns:
+        Model:
+          plot:
+            heatmap:
+              scale: ordinal
+              color-scheme: category20b
