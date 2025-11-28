@@ -21,6 +21,11 @@ views:
             heatmap:
               scale: ordinal
               color-scheme: category20b
+
+        PAT Completion (mins):
+          plot:
+            ticks:
+              scale: linear
   
   desktops:
     dataset: desktops
