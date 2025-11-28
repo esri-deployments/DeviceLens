@@ -38,3 +38,7 @@ views:
             heatmap:
               scale: ordinal
               color-scheme: category20b
+        PAT Completion (Mins):
+          plot:
+            bars:
+              scale: linear
