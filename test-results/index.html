@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Datavzrd</title>
+    <title>Device Lens Results</title>
 </head>
 <body>
 <script src="./static/bundle.js"></script>
@@ -11,7 +11,7 @@
     const viewParam = urlParams.get('view');
     const version = '2.61.10';
     const name = 'Device Lens';
-    const views = {"laptops":"Laptop machines bechmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n","desktops":"Desktop machines benchmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n"};
+    const views = {"desktops":"Desktop machines benchmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n","laptops":"Laptop machines bechmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi&#x2F;Single-Core 3D Image Generation, and **Blender** for Sampling Rates.\n"};
     const table = "laptops";
     let redirectUrl = viewParam ? `${viewParam}/index_1.html` : `${table}/index_1.html`;
     urlParams.delete('view');
