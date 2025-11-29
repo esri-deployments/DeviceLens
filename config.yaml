@@ -40,5 +40,5 @@ views:
               color-scheme: category20b
         PAT Completion (Mins):
           plot:
-            bars:
+            ticks:
               scale: linear
