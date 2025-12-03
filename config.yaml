@@ -53,6 +53,11 @@ views:
             ticks:
               scale: linear
 
+        GPU Scores (Points):
+          plot:
+            bars:
+              scale: linear
+
         Multi-Core (Points):
           plot:
             bars:
