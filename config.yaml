@@ -26,6 +26,16 @@ views:
           plot:
             ticks:
               scale: linear
+        
+        Multi-Core (Points):
+          plot:
+            bars:
+              scale: linear
+
+        Single-Core (Points):
+          plot:
+            bars:
+              scale: linear
   
   desktops:
     dataset: desktops
@@ -41,4 +51,14 @@ views:
         PAT Completion (Mins):
           plot:
             ticks:
+              scale: linear
+
+        Multi-Core (Points):
+          plot:
+            bars:
+              scale: linear
+
+        Single-Core (Points):
+          plot:
+            bars:
               scale: linear
