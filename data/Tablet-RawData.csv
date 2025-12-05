@@ -1,0 +1,4 @@
+﻿Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion (mins),Multi-Core (Points),Single-Core (Points),Monster,Junkshop,Classroom,Category
+Dell Latitude 7350 U7,2024,Intel Ultra 7 164U,1.1GHz,Windows 11,Intel Graphics,16GB,512GB,22.05,0,0,44.89,23.38,16.59,Tablet
+Dell Latitude 7350 U5,2024,Intel Ultra 5 134U,1.1GHz,Windows 11,Intel Graphics,16GB,512GB,25.03,0,0,41.3,20.14,14.62,Tablet
+Dell Latitude 7320,2021,Intel i7-1180G7,2.2GHz,Windows 11,Intel Iris Xe Graphics,16GB,512GB,75.95,0,0,0,0,0,Tablet

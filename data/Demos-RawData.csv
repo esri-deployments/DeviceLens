@@ -1,0 +1,6 @@
+Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion (mins),Multi-Core (Points),Single-Core (Points),Monster,Junkshop,Classroom,Category
+Dell Pro 18 Plus MB18251,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 5000 BWELL,128GB,1TB,17.46,1758,117,3950.6,2181.07,1967.9,Demo
+Dell Pro 18 Plus MB18250,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 5000 BWELL,96GB,1TB,16.53,1719,117,3489.68,1872.98,1766.67,Demo
+Dell Pro 18 Plus MB18250,2025,Intel Ultra 9 285HX,2.8GHz,Windows 11,NVIDIA RTX Pro 3000 BWELL,32GB,1TB,17,1786,111,2514.03,1428.03,1357.45,Demo
+Dell Precision 7780,2023,Intel i9-13950HX,2.6GHz,Windows 11,NVIDIA RTX 3500 Ada,32GB,1TB,16.91,960,101,0,0,0,Demo
+Dell Precision 7750,2020,Intel i7-10750H,2.6GHz,Windows 11,NVIDIA Quadro RTX 4000,32GB,1TB,18.81,416,70,50.63,35.84,22.9,Demo
