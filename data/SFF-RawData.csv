@@ -1,0 +1,6 @@
+﻿Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion (Mins),GPU Scores (Points),Multi-Core (Points),Single-Core (Points),Monster,Junkshop,Classroom,Category
+HP Mini Z2 G9 Workstation,2024,Intel i7-14700,2.12GHz,Windows 11,NVIDIA T1000 8GB,32GB,1TB,16.64,1843,1239,113,162.63,91.44,60.98,SFF
+HP Mini Z2 G1i Workstation,2025,Intel Ultra 7 265K,3.88GHz,Windows 11,NVIDIA RTX 4000 SFF Ada,64GB,1TB,16.45,12562,1662,128,197.12,126.75,91.01,SFF
+Dell Pro Max Micro,2025,Intel Ultra 7 265,2.40 GHz,Windows 11,NVIDIA RTX A1000 CUDA,32GB,1TB,0,4469,1402,116,170.13,108.92,77.29,SFF
+Dell Precision 3450,2024,Intel i7-11700,2.50GHz,Windows 11,NVIDIA T600,16GB,512GB,19.63,0,537,86,67.53,44.41,25.48,SFF
+Dell Precision 3430,2018,Intel Xeon E-2147G,3.80GHz,Windows 11,NVIDIA P400,32GB,512GB,25.41,0,293,66,34.54,23.52,17.3,SFF
