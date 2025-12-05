@@ -1,0 +1,8 @@
+﻿Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion (Mins),GPU Scores (Points),Multi-Core (Points),Single-Core (Points),Monster,Junkshop,Classroom,Category
+HP Z2 Tower Workstation Desktop,2022,Intel i9-14900K,3.20GHz,Windows 11,NVIDIA GeForce RTX 4080 Super,64GB,3TB,14.86,26026,1654,111,208.44,134.74,90.37,Tower
+HP Z2 G1i Tower Workstation Desktop,2025,Intel Ultra 9 285K,3.70GHz,Windows 11,NVIDIA RTX 4000 Ada,64GB,1TB,15.47,15396,2181,131,2170.43,1072.83,1152.75,Tower
+Dell Precision 7875 Tower,2023,AMD Ryzen TR Pro 795WX,4.20GHz,Windows 11,NVIDIA RTX 4500 Ada 24GB,64GB,4TB,16.06,19145,2495,102,2851.49,1402.05,1458.9,Tower
+Dell Pro Max Tower T2,2025,Intel Ultra 7 265K,3.90GHz,Windows 11,NVIDIA RTX 4000 Ada,64GB,1TB,16.67,15816,1873,118,2243.77,1128.63,1178.89,Tower
+Dell Precision 5860 Tower,2023,Intel Xeon W3-2435,3.10GHz,Windows 11,NVIDIA RTX A1000,64GB,1TB,0,4329,825,62,573.14,365.11,326.2,Tower
+Dell Precision 5820 Tower,2017,Intel Xeon W-2133,3.60GHz,Windows 11,NVIDIA Quadro P400,32GB,1TB,25.11,0,396,54,40.78,31.09,20.75,Tower
+Dell Precision 5810 Tower,2013,Intel Xeon E5-1620 v4,3.50GHz,Windows 10,NVIDIA Quadro K620,16GB,1TB,34.25,0,252,49,0,0,0,Tower
