@@ -1,7 +1,0 @@
-﻿Model,Year,Processor,GHz,OS,GPU,RAM,Storage,PAT Completion (mins),Multi-Core (Points),Single-Core (Points),Monster,Junkshop,Classroom,Category
-Dell Pro Max Premium,2025,Intel Ultra 7 265H,2.2GHz,Windows 11,NVIDIA RTX Pro 2000 BWELL,32GB,1TB,30.68,965,116,1290.37,807.8,695.02,Travel Dev
-Dell Precision 5690,2024,Intel Ultra 7 165H,2.6GHz,Windows 11,NVIDIA RTX 2000 Ada,32GB,1TB,16.97,553,89,0,0,0,Travel Dev
-Dell Precision 5550,2020,Intel i7-10750H,2.6GHz,Windows 11,NVIDIA T1200 Laptop GPU,32GB,1TB,19.77,335,63,38.36,21.13,17.38,Travel Dev
-Dell Precision 5540,2019,Intel i7-9850H,2.6GHz,Windows 11,NVIDIA Quadro T1000,32GB,1TB,25.01,296,63,41.52,28.61,16.49,Travel Dev
-HP Power G11,2024,Intel Ultra 9 185H,3.08GHz,Windows 11,NVIDIA RTX 3000 Ada,64GB,1TB,16.89,890,85,1241.74,695.04,671.13,Travel Dev
-HP Zbook G8,2021,Intel i7-11800H,2.4GHz,Windows 11,NVIDIA RTX 2000 Ada,32GB,1TB,19.11,319,0,0,0,0,Travel Dev
