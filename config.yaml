@@ -1,17 +1,32 @@
 name: Device Lens
 
-default-view: laptops
+default-view: Laptops
 
 datasets:
-  laptops:
+  Laptops:
     path: data/Laptops-RawData.csv
   
-  desktops:
+  Desktops:
     path: data/Desktops-RawData.csv
 
+  Demo:
+    path: data/Laptops/Demos-RawData.csv
+
+  Dev:
+    path: data/Laptops/Dev-RawData.csv
+
+  Travel Dev:
+    path: data/Laptops/TravelDev-RawData.csv
+
+  Business:
+    path: data/Laptops/Business-RawData.csv
+
+  Tablet:
+    path: data/Laptops/Tablet-RawData.csv
+
 views:
-  laptops:
-    dataset: laptops
+  Laptops:
+    dataset: Laptops
     desc: |
       Laptop machines bechmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi/Single-Core 3D Image Generation, and **Blender** for Sampling Rates.
     render-table:
@@ -37,8 +52,8 @@ views:
             bars:
               scale: linear
   
-  desktops:
-    dataset: desktops
+  Desktops:
+    dataset: Desktops
     desc: |
      Desktop machines benchmarked using the Esri ArcGIS Pro **Performance Assessment Tool**, **CineBench** for GPU, Multi/Single-Core 3D Image Generation, and **Blender** for Sampling Rates.
     render-table:
